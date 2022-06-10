@@ -31,7 +31,7 @@
 <h3>What I'm currently working on</h3>
 
 - <p>Learning <strong>Angular</strong></p>
-- <p>Improving my skills in creating applications with <strong>Vue</strong></p>
+- <p>Improving my skills in <strong>Vue</strong></p>
 
 ---
 
