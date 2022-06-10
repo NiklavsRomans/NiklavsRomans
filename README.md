@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I am Niklavs Romans! </h1>
 
 <h3 align="center">Passionate Software Engineer from Latvia, Riga </h3>
-<p align="center"> :tada: Communicative and motivated to learn new stuff everyday. :tada: </p>
+<h3 align="center"> :tada: Communicative and motivated to learn new stuff everyday. :tada: </h3>
 
 <h3>Connect with me at: </h3>
 <a href="https://www.linkedin.com/in/niklavsromans/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" align="left" height="48" width="48" ></a>
@@ -28,12 +28,15 @@
 
 ---
 
-- <p>Currently learning <strong>Angular</strong></p>
+<h3>What I'm currently working on</h3>
+
+- <p>Learning <strong>Angular</strong></p>
+- <p>Improving my skills in creating applications with <strong>Vue</strong></p>
 
 ---
 
 
-## &#x1f4c8; GitHub Stats
+<h3>Github stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklavsRomans&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
