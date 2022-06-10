@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Niklavs Romans! </h1>
+<h1 align="center">Hello there, I am Niklavs Romans! </h1>
 
 <h3 align="center">Passionate Software Engineer from Latvia, Riga </h3>
 <h3 align="center"> :tada: Communicative and motivated to learn new stuff everyday. :tada: </h3>
@@ -33,6 +33,23 @@
 - <p>Learning <strong>Angular</strong></p>
 - <p>Improving my skills in creating applications with <strong>Vue</strong></p>
 
+---
+
+<h3>Some of my projects</h3>
+
+- https://github.com/NiklavsRomans/02-2022-MD22
+  - React app using Redux createApi to retrieve information about pokemons.
+  - Implemented pagination where you can check all pokemons.
+  
+- https://github.com/NiklavsRomans/02-2022-MD24-ToDoApp-ServiceApp
+  - Todo app & service app created using Vue framework
+  - Todo features - add/delete/check/edit
+  - Implemented todo app progress bar
+
+- https://github.com/NiklavsRomans/02-2022-MD23-Animal-Redux
+  - React app using Redux where you can add animals with your own image source
+  - Implemented animal type selection and filter
+  - data is stored on LocalStorage
 ---
 
 
