@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I am Niklavs Romans! </h1>
+<h1 align="center">Hello there, I am Niklavs! </h1>
 
 <h3 align="center">Passionate Software Engineer from Latvia, Riga </h3>
 <h3 align="center"> :tada: Communicative and motivated to learn new stuff everyday. :tada: </h3>
