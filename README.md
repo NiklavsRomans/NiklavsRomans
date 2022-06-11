@@ -49,7 +49,7 @@
 - https://github.com/NiklavsRomans/02-2022-MD23-Animal-Redux
   - React app using Redux where you can add animals with your own image source
   - Implemented animal type selection and filter
-  - data is stored on LocalStorage
+  - Data is stored on LocalStorage
 ---
 
 
