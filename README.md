@@ -18,9 +18,12 @@
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="left" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" align="left" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" align="left" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="left" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" align="left" height="48" width="48" ></a>
 <a href="url"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" align="left" height="48" width="48" ></a>
+
 
 </br>
 </br>
