@@ -41,18 +41,13 @@
 <h3>Some of my projects</h3>
 
 - https://github.com/NiklavsRomans/02-2022-MD22
-  - React app using Redux createApi to retrieve information about pokemons.
-  - Implemented pagination where you can check all pokemons.
+  - Pokemon app using React Redux
   
 - https://github.com/NiklavsRomans/02-2022-MD24-ToDoApp-ServiceApp
-  - Todo app & service app created using Vue framework
-  - Todo features - add/delete/check/edit
-  - Implemented todo app progress bar
+  - Todo app & service app using Vue framework
 
 - https://github.com/NiklavsRomans/02-2022-MD23-Animal-Redux
-  - React app using Redux where you can add animals with your own image source
-  - Implemented animal type selection and filter
-  - Data is stored on LocalStorage
+  - Animal Adder app using React library
 ---
 
 
