@@ -31,8 +31,7 @@
 
 <h3>What I'm currently working on:</h3>
 
-- <p>Improving my skills in <strong>Angular</strong></p>
-- <p>Improving my skills in <strong>Vue</strong></p>
+- <p>Improving my skills in <strong>Vue pinia store</strong></p>
 - <p>From (13/06/2022) working on <strong>Angular Joke App</strong></p>
 
 ---
