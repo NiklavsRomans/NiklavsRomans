@@ -39,12 +39,12 @@
 <h3>Some of my projects:</h3>
 
 - https://github.com/NiklavsRomans/02-2022-MD22
-  - Pokemon app using React Redux
+   <strong>Pokemon app using React Redux</strong>
   
 - https://github.com/NiklavsRomans/02-2022-MD24-ToDoApp-ServiceApp
-  - Todo app & service app using Vue framework
+   <strong>Todo app & service app using Vue framework</strong>
 
 - https://github.com/NiklavsRomans/02-2022-MD23-Animal-Redux
-  - Animal Adder app using React library
+   <strong>Animal Adder app using React library</strong
 
 
