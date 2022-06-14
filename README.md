@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate Software Engineer from Latvia, Riga </h3>
 <h3 align="center">Communicative and motivated to learn new stuff everyday.</h3>
-<h3 align="center">:tada:Always ready to learn new things :tada:</h3>
+<h3 align="center">:tada: Always ready to learn new things :tada:</h3>
 
 <h3>Connect with me at: </h3>
 <a href="https://www.linkedin.com/in/niklavsromans/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" align="left" height="48" width="48" ></a>
@@ -29,15 +29,15 @@
 </br>
 </br>
 
-<h3>What I'm currently working on:/h3>
+<h3>What I'm currently working on:</h3>
 
 - <p>Learning <strong>Angular</strong></p>
 - <p>Improving my skills in <strong>Vue</strong></p>
-- <p>From (13/06/2022) Working on Angular Joke App </p>
+- <p>From (13/06/2022) working on <strong>Angular Joke App</strong></p>
 
 ---
 
-<h3>Some of my projects:h3>
+<h3>Some of my projects:</h3>
 
 - https://github.com/NiklavsRomans/02-2022-MD22
   - Pokemon app using React Redux
