@@ -45,6 +45,6 @@
    <strong>Todo app & service app using Vue framework</strong>
 
 - https://github.com/NiklavsRomans/02-2022-MD23-Animal-Redux
-   <strong>Animal Adder app using React library</strong
+   <strong>Animal Adder app using React library</strong>
 
 
