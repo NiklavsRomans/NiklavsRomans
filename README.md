@@ -31,8 +31,8 @@
 
 <h3>What I'm currently working on:</h3>
 
-- <p>Improving my skills in <strong>Vue pinia store</strong></p>
-- <p>Working on Vue app Star Wars API.<p>
+- <p>Writing tests</p>
+- <p>React Currency App<p>
 
 ---
 
