@@ -32,7 +32,7 @@
 <h3>What I'm currently working on:</h3>
 
 - <p>Writing tests</p>
-- <p>React Currency App<p>
+- <p>React League of Legends App<p>
 
 ---
 
