@@ -31,8 +31,8 @@
 
 <h3>What I'm currently working on:</h3>
 
+- <p>Cryptocurrency Dashboard (18.07.2022)<p>
 - <p>Writing tests</p>
-- <p>React League of Legends App<p>
 
 ---
 
@@ -44,7 +44,7 @@
 - https://github.com/NiklavsRomans/02-2022-MD22
    - <strong>Pokemon app using React Redux</strong>
   
-- https://github.com/NiklavsRomans/02-2022-MD24-ToDoApp-ServiceApp
-   - <strong>Todo app & service app using Vue framework</strong>
+- https://github.com/NiklavsRomans/Cryptocurrency_Landing_Page
+   - <strong>React Cryptocurrency API app</strong>
 
 
