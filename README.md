@@ -1,8 +1,7 @@
 <h1 align="center">Hello there, I am Niklavs! </h1>
 
-<h3 align="center">Passionate Software Engineer from Latvia, Riga </h3>
+<h3 align="center">Passionate Front End Developer from Latvia, Riga </h3>
 <h3 align="center">Communicative and motivated to learn new stuff everyday.</h3>
-<h3 align="center">:tada: Always ready to learn new things :tada:</h3>
 
 <h3>Connect with me at: </h3>
 <a href="https://www.linkedin.com/in/niklavsromans/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" align="left" height="48" width="48" ></a>
