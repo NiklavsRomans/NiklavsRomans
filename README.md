@@ -31,7 +31,7 @@
 
 <h3>What I'm currently working on:</h3>
 
-- <p>Cryptocurrency Dashboard (18.07.2022)<p>
+- <p>Cryptocurrency Dashboard (29.07.2022)<p>
 - <p>Writing tests</p>
 
 ---
