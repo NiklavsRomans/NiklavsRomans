@@ -28,11 +28,6 @@
 </br>
 </br>
 
-<h3>What I'm currently working on:</h3>
-
-- <p>Cryptocurrency Dashboard (29.07.2022)<p>
-- <p>Writing tests</p>
-
 ---
 
 <h3>Some of my projects:</h3>
