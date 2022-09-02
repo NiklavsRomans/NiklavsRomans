@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I am Niklavs! </h1>
 
-<h3 align="center">Passionate Front End Developer from Latvia, Riga </h3>
+<h3 align="center">Passionate Software Developer from Latvia, Riga </h3>
 <h3 align="center">Communicative and motivated to learn new stuff everyday.</h3>
 
 <h3>Connect with me at: </h3>
